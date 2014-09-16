@@ -6,7 +6,7 @@ Patches for ArchivesSpace 1.0.9 EAD export issues:
 1. Ensure that xml is encoded in utf-8:
 https://github.com/archivesspace/archivesspace/issues/68
 
-2. Ensure that <titleproper> is populated correctly
+2. Ensure that `<titleproper>` is populated correctly
 
 #Installation
 
